@@ -14,4 +14,4 @@ Progress documentation
 10) Performed cross-filtering and navigation
 11) Created metrics for users outside the company using SQL
 
-Imported data from CSV, Azure SQL, Azure blob, and folder. Transformed, cleaned, combined and linked all data.
+(Imported data from CSV, Azure SQL, Azure blob, and folder. Transformed, cleaned, combined and linked all data.)
